@@ -7,8 +7,8 @@ Features :
 * Feature importance analysis to understand key factors influencing churn.
 * Visualization of churn trends and model performance metrics.
 * Evaluation of model performance using metrics such as accuracy, precision, recall, and F1-score.
-* Technologies Used.
 
+  -TECHNOLOGY USED-
 
 Programming Language: Python
 
